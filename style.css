@@ -1,0 +1,19 @@
+body { 
+   background-color: #FFFFE0; /* Warna Kuning Cerah */
+   font-family: Arial sans-serif; */ Jenif huruf yang besih
+   color: #191970 /* Warna text utama (biru Gelap) */
+}
+
+.kartu-profil {
+    width:300px;
+    margain: 50px auto; /* 50px jarak atas/bawah, auto menengah
+  kiri/kanan*/
+      padding: 20px;
+      background-color: white;
+      border-radius: 15px; /* membuat sudut menjadi lengkung */
+      box-shadow: 0 4px 8px rgba (0,0,0,0.1) ; /* Efek banyangan */
+}
+
+.kartu-profil img{ 
+    width:150px;
+    border-radius: 50%; /* Trik untunk membuat gambar persegi menjadi lingkarang sempurna */
